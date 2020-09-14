@@ -1,1 +1,8 @@
-This product landing page is made for a startup called 'Umbeo Technologies' where I was an Intern. It is made using HTML5, CSS3 and Bootstrap 3.
+# Umbeo Technologies Pvt. Ltd.
+#### Designed and Developed by: Divyank Kargeti
+
+### This project is developed using the following technologies: HTML , CSS, Bootstrap, jQuery and Vanilla JavaScript.
+
+## Screenshots
+
+![SS1](SS.png)
